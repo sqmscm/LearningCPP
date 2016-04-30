@@ -1,0 +1,12 @@
+﻿  Primer3.cpp
+d:\programme\c++\primer part 3\primer3\primer3.cpp(46): error C2276: “!”: 绑定成员函数表达式上的非法操作
+d:\programme\c++\primer part 3\primer3\primer3.cpp(56): error C2371: “iter”: 重定义；不同的基类型
+  d:\programme\c++\primer part 3\primer3\primer3.cpp(19): note: 参见“iter”的声明
+d:\programme\c++\primer part 3\primer3\primer3.cpp(71): error C2086: “std::list<int,std::allocator<_Ty>> ilist”: 重定义
+          with
+          [
+              _Ty=int
+          ]
+  d:\programme\c++\primer part 3\primer3\primer3.cpp(30): note: 参见“ilist”的声明
+d:\programme\c++\primer part 3\primer3\primer3.cpp(79): error C2086: “std::string word”: 重定义
+  d:\programme\c++\primer part 3\primer3\primer3.cpp(55): note: 参见“word”的声明

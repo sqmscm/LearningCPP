@@ -1,0 +1,20 @@
+and occurs 10 time(s).
+	(line 5) I.	Course and Instructor Information
+	(line 17) ?	 Determine equivalency and non-equivalency of logic statements. 
+	(line 22) ?	Construct simple regular expressions and their automata. 
+	(line 27) There will be a midterm and a Final Exam. All examinations are closed book and will be 75 minutes in length. These major exams will be announced at least two meetings in advance. Also see your course calendar, which gives all the dates. The final exam is scheduled during the last week of classes and will not be given earlier regardless of any reason.
+	(line 30) B.	Homework Assignments Homework assignments are part of the course and will be assigned weekly.  ALL STUDENTS ARE REQUIRED TO LOG IN AND KEEP UP TO DATE ON THE HOMEWORK.
+	(line 33) Your instructor will record class attendance and will mark you absent if you arrive later than 10 minutes or leave the classroom 10 minutes or more prior to the end of session.
+	(line 47) Each student is responsible for keeping a record of points earned on tests, homework assignments, and quizzes. Your online homework grades will appear on MyMathLab. You will be responsible for assessing your performance throughout the course. Your instructor is NOT responsible for furnishing you with reminders concerning your progress and how you are doing at regular intervals throughout the course. However, you should contact your instructor any time you have questions about your grade.  Your grade will be calculated as follows:
+	(line 50) 93 and above	A		75-79		C+
+	(line 65) VII.	Each student is responsible for reading and understanding the contents of:
+	(line 70) The Students Rights and Responsibilities handbook is available at:  http://www.kean.edu/KU/Forms-Policies-and-Publications
+---------------------------------------------------------------------------------------
+sit occurs 0 time(s).
+---------------------------------------------------------------------------------------
+an occurs 0 time(s).
+---------------------------------------------------------------------------------------
+do occurs 2 time(s).
+	(line 37) 2.	Missed exams can be made up within one week of the actual in-class examination. However, you must contact your instructor to arrange the scheduling of the make-up test within 48 hours of the date of the test that you missed. If you are unable to contact your instructor, please have a reliable person do this on your behalf. Valid documentation must be presented to your instructor. Examples of valid documentation includes: illness (doctor¡¯s excuse); self-confinement at home or in the dormitory does not qualify, death in the immediate family (obituary or funeral announcement), or appearance in court (copy of court documents will suffice). 
+	(line 71) All students must have a valid Kean email account.  For those who do not already have one, forms are available on-line at http://www.kean.edu/KU/Forms-OCIS; click on E-mail Account Request Form.
+---------------------------------------------------------------------------------------

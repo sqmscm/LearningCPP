@@ -1,0 +1,93 @@
+Math 2110 Discrete Structures   
+ Spring 2016 Wenzhou-Kean University
+
+
+I.	Course and Instructor Information
+Section: W02      Meeting Times: 4:00 ¨C 5:15pm      Days: MW    Location: GEH B501
+Instructor¡¯s Name: Arianne Ross           E-mail address: arross@kean.edu
+
+II.	Prerequisites	Math 1054 or placement
+
+              Textbook	
+Discrete Mathematics with Applications by Susanna S. Epp 4th edition 
+ISBN: 978-0-495-39132-6
+
+III.	Course Objectives
+?	 Operate with set expressions. 
+?	 Determine equivalency and non-equivalency of logic statements. 
+?	 Represent relations in a variety of ways. 
+?	 Discuss properties of relations defined on sets. 
+?	 Use counting techniques in solving problems. 
+?	 Understand some elementary graph algorithms. 
+?	Construct simple regular expressions and their automata. 
+
+IV.	Course Requirements
+
+A.	Exams 
+There will be a midterm and a Final Exam. All examinations are closed book and will be 75 minutes in length. These major exams will be announced at least two meetings in advance. Also see your course calendar, which gives all the dates. The final exam is scheduled during the last week of classes and will not be given earlier regardless of any reason.
+If any exam is missed for a valid reason, please refer to the Make-Up Test Policy for exact details about what you should do. 
+
+B.	Homework Assignments Homework assignments are part of the course and will be assigned weekly.  ALL STUDENTS ARE REQUIRED TO LOG IN AND KEEP UP TO DATE ON THE HOMEWORK.
+
+C.	Attendance Policy
+Your instructor will record class attendance and will mark you absent if you arrive later than 10 minutes or leave the classroom 10 minutes or more prior to the end of session.
+
+D.	Make-Up Test Policy
+1.	NO Make-Up for any late homework regardless of the reason.
+2.	Missed exams can be made up within one week of the actual in-class examination. However, you must contact your instructor to arrange the scheduling of the make-up test within 48 hours of the date of the test that you missed. If you are unable to contact your instructor, please have a reliable person do this on your behalf. Valid documentation must be presented to your instructor. Examples of valid documentation includes: illness (doctor¡¯s excuse); self-confinement at home or in the dormitory does not qualify, death in the immediate family (obituary or funeral announcement), or appearance in court (copy of court documents will suffice). 
+
+E.	Method of Evaluation
+Midterm		                             	              20%
+Final Exam 				                           30%
+Homework						20%
+Quizzes						25%
+Participation						  5% 
+
+F.	Grading Policy
+Each student is responsible for keeping a record of points earned on tests, homework assignments, and quizzes. Your online homework grades will appear on MyMathLab. You will be responsible for assessing your performance throughout the course. Your instructor is NOT responsible for furnishing you with reminders concerning your progress and how you are doing at regular intervals throughout the course. However, you should contact your instructor any time you have questions about your grade.  Your grade will be calculated as follows:
+
+Percentage: 
+93 and above	A		75-79		C+
+90-92		A-		70-74		C
+87-89		B+		60-69		D
+84-86		B		<60		F
+80-83		B-
+
+G. 	Use of Electronic Devices
+Cell phones, texting, laptops, or any other electronic devices are prohibited during class.  If there is a reason for them to be on, you must let the instructor know before the class starts. 
+
+
+V.	Buddy Information In the event you miss a class, it is your responsibility to find out what you have missed. Please use the space provided below to record at least one of your classmates¡¯ contact information. 
+
+Name: _____________________________E-mail address: ______________________
+
+
+VII.	Each student is responsible for reading and understanding the contents of:
+
+Academic Integrity Policy available at the Center for Academic Success or at http://www.kean.edu/admin/uploads/pdf/AcademicIntegrityPolicy.pdf
+
+Student Code of Conduct, as it discusses expectations of appropriate conduct in the classroom:  http://www.kean.edu/KU/Code-of-Conduct 
+The Students Rights and Responsibilities handbook is available at:  http://www.kean.edu/KU/Forms-Policies-and-Publications
+All students must have a valid Kean email account.  For those who do not already have one, forms are available on-line at http://www.kean.edu/KU/Forms-OCIS; click on E-mail Account Request Form.
+
+
+
+Tentative Schedule of Lessons - 
+ * Your instructor reserves the right to change this schedule as needed.
+
+Date	Sections	Date	Sections 
+1/18	Class Orientation, Introduction 2.1	3/28	8.1
+1/20	Sec. 2.1	3/30	8.2
+ 1/25	Sec. 2.2	4/6	8.3
+1/27	Sec. 2.3	4/11	9.1
+2/22	Sec. 2.4	4/13	9.2
+2/24	Sec. 5.1	4/18	9.3
+2/29	Sec. 5.6	4/20	9.5
+3/2	Sec. 5.7	4/25	10.1
+3/7	Sec. 5.8	4/27	10.2
+3/9	Sec. 6.1	5/2	10.3
+3/14	Sec. 6.2	5/4	10.4
+3/16	Sec. 6.3	5/9	Review (final exam)
+3/21	Review	5/11	Review (final exam)
+3/23	Midterm	5/16	Final Exam  
+
